@@ -1,0 +1,6 @@
+this is a file for all commands
+
+git init
+git add
+git commit
+
